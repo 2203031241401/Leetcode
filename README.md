@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2203031241401/Leetcode/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/2203031241401/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/2203031241401/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/2203031241401/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/2203031241401/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/2203031241401/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/2203031241401/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
